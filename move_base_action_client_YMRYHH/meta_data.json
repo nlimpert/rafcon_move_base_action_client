@@ -1,0 +1,70 @@
+{
+    "gui": {
+        "editor_opengl": {
+            "rel_pos": {}, 
+            "size": {
+                "__jsonqualname__": "__builtin__.tuple", 
+                "items": [
+                    203.32348771266538, 
+                    112.46928166351609
+                ]
+            }
+        }
+    }, 
+    "input_data_port0": {
+        "gui": {
+            "editor_opengl": {
+                "inner_rel_pos": {
+                    "__jsonqualname__": "__builtin__.tuple", 
+                    "items": [
+                        0, 
+                        -106.84581758034028
+                    ]
+                }
+            }
+        }
+    }, 
+    "input_data_port1": {
+        "gui": {
+            "editor_opengl": {
+                "inner_rel_pos": {
+                    "__jsonqualname__": "__builtin__.tuple", 
+                    "items": [
+                        0, 
+                        -101.22235349716448
+                    ]
+                }
+            }
+        }
+    }, 
+    "input_data_port2": {
+        "gui": {
+            "editor_opengl": {
+                "inner_rel_pos": {
+                    "__jsonqualname__": "__builtin__.tuple", 
+                    "items": [
+                        0, 
+                        -95.59888941398867
+                    ]
+                }
+            }
+        }
+    }, 
+    "input_data_port3": {
+        "gui": {
+            "editor_opengl": {
+                "inner_rel_pos": {
+                    "__jsonqualname__": "__builtin__.tuple", 
+                    "items": [
+                        0, 
+                        -89.97542533081287
+                    ]
+                }
+            }
+        }
+    }, 
+    "outcome-1": {}, 
+    "outcome-2": {}, 
+    "outcome0": {}, 
+    "outcome1": {}
+}
